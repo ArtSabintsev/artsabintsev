@@ -9,6 +9,3 @@ Physicist turned engineer turned founder.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtSabintsev&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
-[sabintsev.com](https://sabintsev.com) · [LinkedIn](https://linkedin.com/in/artsabintsev) · [X](https://x.com/artsabintsev)
