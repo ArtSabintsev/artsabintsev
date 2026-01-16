@@ -7,7 +7,7 @@ Physicist turned engineer turned founder.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtSabintsev&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d12&title_color=c9a227&icon_color=c9a227&text_color=f5f0e6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtSabintsev&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
