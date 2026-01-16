@@ -3,7 +3,6 @@
 Physicist turned engineer turned founder.
 
 **Building:** [Grove](https://grove.city)
-**Investing:** [Gold Ranger Ventures](https://goldranger.xyz)
 **Previously:** Pocket Network, Capital One, Washington Post, ID.me
 
 ---
